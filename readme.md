@@ -1,3 +1,5 @@
+![👁️](https://views.whatilearened.today/views/github/seyhajin/llvm-ir-zig.svg)
+
 # LLVM IR module in Zig
 
 A minimal example to create and execute a LLVM IR module in Zig.
